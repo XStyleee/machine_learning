@@ -5,4 +5,10 @@ OmSU machine learning
 
 2_laba // pandas
 
-3_laba // linear regression
+3_laba // visualisation
+
+4_laba // linear regression
+
+5_laba // clustering
+
+6_laba // ensembles
